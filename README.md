@@ -28,6 +28,7 @@ Multi_Agent_Content_Generation_System/
 ├─ comparison_page.json
 ├─ faq.json
 ├─ product_page.json
+ ```
 
 ## Documentation
 Detailed system design, architecture, data flow, and design principles are available here:
