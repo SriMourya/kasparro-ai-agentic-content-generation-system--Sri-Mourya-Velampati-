@@ -14,17 +14,21 @@ The system is designed using modular, task-specific agents that operate sequenti
 ## Project Structure
 
 ```text
-ai_agents/
+Multi_Agent_Content_Generation_System/
 ├─ README.md
 ├─ docs/
 │  ├─ projectdocumentation.md
 │  └─ ai_agents.png
-├─ Agents/
-├─ blocks/
-├─ data/
-├─ output/
-├─ Templates/
-```
+├─ src/
+│  ├─ agents/
+│  ├─ core/
+│  ├─ domain/
+│  ├─ templates/
+│  └─ main.py
+├─ comparison_page.json
+├─ faq.json
+├─ product_page.json
+
 ## Documentation
 Detailed system design, architecture, data flow, and design principles are available here:
 
