@@ -1,0 +1,11 @@
+{
+    "title": "Frequently Asked Questions - {product.name}",
+    "meta_title": {
+        "_block": "create_meta_title",
+        "args": {}
+    },
+    "content": {
+        "header": "FAQ",
+        "questions": "{faq_list}"
+    }
+}

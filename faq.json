@@ -1,0 +1,84 @@
+{
+  "title": "Frequently Asked Questions - {product.name}",
+  "meta_title": "GlowBoost Vitamin C Serum - 10% Vitamin C | Official Store",
+  "content": {
+    "header": "FAQ",
+    "questions": [
+      {
+        "question": "What is GlowBoost Vitamin C Serum?",
+        "answer": "GlowBoost Vitamin C Serum is a serum containing 10% Vitamin C. It features key ingredients like Vitamin C, Hyaluronic Acid.",
+        "category": "Informational"
+      },
+      {
+        "question": "What are the main benefits of GlowBoost Vitamin C Serum?",
+        "answer": "The main benefits are: Brightening, Fades dark spots.",
+        "category": "Informational"
+      },
+      {
+        "question": "What is the concentration of GlowBoost Vitamin C Serum?",
+        "answer": "It contains 10% Vitamin C.",
+        "category": "Informational"
+      },
+      {
+        "question": "How should I apply GlowBoost Vitamin C Serum?",
+        "answer": "Apply 2\u20133 drops in the morning before sunscreen",
+        "category": "Usage"
+      },
+      {
+        "question": "Can I use this in the morning?",
+        "answer": "Yes, it is recommended to apply in the morning before sunscreen.",
+        "category": "Usage"
+      },
+      {
+        "question": "How many drops should I use?",
+        "answer": "Apply 2-3 drops.",
+        "category": "Usage"
+      },
+      {
+        "question": "Are there any side effects?",
+        "answer": "Mild tingling for sensitive skin",
+        "category": "Safety"
+      },
+      {
+        "question": "Is this product safe for sensitive skin?",
+        "answer": "It may cause Mild tingling for sensitive skin, so patch testing is recommended.",
+        "category": "Safety"
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum good for Oily skin?",
+        "answer": "Yes, it is specifically formulated for Oily skin types.",
+        "category": "Safety"
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum good for Combination skin?",
+        "answer": "Yes, it is specifically formulated for Combination skin types.",
+        "category": "Safety"
+      },
+      {
+        "question": "How much does GlowBoost Vitamin C Serum cost?",
+        "answer": "It is priced at INR 699.0.",
+        "category": "Purchase"
+      },
+      {
+        "question": "Is this product affordable?",
+        "answer": "At \u20b9699, it offers great value for a 10% Vitamin C serum.",
+        "category": "Purchase"
+      },
+      {
+        "question": "Does it contain Vitamin C?",
+        "answer": "Yes, Vitamin C is a key ingredient.",
+        "category": "Ingredients"
+      },
+      {
+        "question": "Does it contain Hyaluronic Acid?",
+        "answer": "Yes, Hyaluronic Acid is a key ingredient.",
+        "category": "Ingredients"
+      },
+      {
+        "question": "Generic question 15 about GlowBoost Vitamin C Serum",
+        "answer": "Generic answer.",
+        "category": "General"
+      }
+    ]
+  }
+}

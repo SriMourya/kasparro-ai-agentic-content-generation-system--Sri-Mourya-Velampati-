@@ -1,0 +1,27 @@
+{
+  "title": "Comparison: {product.name} vs {product_b.name}",
+  "comparison_table": {
+    "row_1": {
+      "metric": "Price",
+      "product_a": 699.0,
+      "product_b": 1200.0,
+      "verdict": "More Affordable"
+    },
+    "row_2": {
+      "metric": "Concentration",
+      "product_a": "10% Vitamin C",
+      "product_b": "5% Vitamin C"
+    },
+    "row_3": {
+      "metric": "Key Ingredients",
+      "product_a": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "product_b": [
+        "Vitamin C",
+        "Aloe Vera"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "product_name": "{product.name}",
+    "price_display": {
+        "_block": "format_price",
+        "args": {}
+    },
+    "description": {
+        "concentration": "{product.concentration}",
+        "benefits_list": {
+            "_block": "generate_benefits_list",
+            "args": {}
+        }
+    },
+    "usage_instructions": "{product.how_to_use}",
+    "ingredients_text": {
+        "_block": "extract_ingredients_text",
+        "args": {}
+    },
+    "seo_title": {
+        "_block": "create_meta_title",
+        "args": {}
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Comparison: {product.name} vs {product_b.name}",
+    "comparison_table": {
+        "row_1": {
+            "metric": "Price",
+            "product_a": "{product.price}",
+            "product_b": "{product_b.price}",
+            "verdict": {
+                "_block": "compare_price",
+                "args": {
+                    "p1_key": "product.price",
+                    "p2_key": "product_b.price"
+                }
+            }
+        },
+        "row_2": {
+            "metric": "Concentration",
+            "product_a": "{product.concentration}",
+            "product_b": "{product_b.concentration}"
+        },
+        "row_3": {
+            "metric": "Key Ingredients",
+            "product_a": "{product.key_ingredients}",
+            "product_b": "{product_b.key_ingredients}"
+        }
+    }
+}
