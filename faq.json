@@ -1,84 +1,39 @@
 {
-  "title": "Frequently Asked Questions - {product.name}",
-  "meta_title": "GlowBoost Vitamin C Serum - 10% Vitamin C | Official Store",
-  "content": {
-    "header": "FAQ",
-    "questions": [
-      {
-        "question": "What is GlowBoost Vitamin C Serum?",
-        "answer": "GlowBoost Vitamin C Serum is a serum containing 10% Vitamin C. It features key ingredients like Vitamin C, Hyaluronic Acid.",
-        "category": "Informational"
-      },
-      {
-        "question": "What are the main benefits of GlowBoost Vitamin C Serum?",
-        "answer": "The main benefits are: Brightening, Fades dark spots.",
-        "category": "Informational"
-      },
-      {
-        "question": "What is the concentration of GlowBoost Vitamin C Serum?",
-        "answer": "It contains 10% Vitamin C.",
-        "category": "Informational"
-      },
-      {
-        "question": "How should I apply GlowBoost Vitamin C Serum?",
-        "answer": "Apply 2\u20133 drops in the morning before sunscreen",
-        "category": "Usage"
-      },
-      {
-        "question": "Can I use this in the morning?",
-        "answer": "Yes, it is recommended to apply in the morning before sunscreen.",
-        "category": "Usage"
-      },
-      {
-        "question": "How many drops should I use?",
-        "answer": "Apply 2-3 drops.",
-        "category": "Usage"
-      },
-      {
-        "question": "Are there any side effects?",
-        "answer": "Mild tingling for sensitive skin",
-        "category": "Safety"
-      },
-      {
-        "question": "Is this product safe for sensitive skin?",
-        "answer": "It may cause Mild tingling for sensitive skin, so patch testing is recommended.",
-        "category": "Safety"
-      },
-      {
-        "question": "Is GlowBoost Vitamin C Serum good for Oily skin?",
-        "answer": "Yes, it is specifically formulated for Oily skin types.",
-        "category": "Safety"
-      },
-      {
-        "question": "Is GlowBoost Vitamin C Serum good for Combination skin?",
-        "answer": "Yes, it is specifically formulated for Combination skin types.",
-        "category": "Safety"
-      },
-      {
-        "question": "How much does GlowBoost Vitamin C Serum cost?",
-        "answer": "It is priced at INR 699.0.",
-        "category": "Purchase"
-      },
-      {
-        "question": "Is this product affordable?",
-        "answer": "At \u20b9699, it offers great value for a 10% Vitamin C serum.",
-        "category": "Purchase"
-      },
-      {
-        "question": "Does it contain Vitamin C?",
-        "answer": "Yes, Vitamin C is a key ingredient.",
-        "category": "Ingredients"
-      },
-      {
-        "question": "Does it contain Hyaluronic Acid?",
-        "answer": "Yes, Hyaluronic Acid is a key ingredient.",
-        "category": "Ingredients"
-      },
-      {
-        "question": "Generic question 15 about GlowBoost Vitamin C Serum",
-        "answer": "Generic answer.",
-        "category": "General"
-      }
-    ]
-  }
+  "items": [
+    {
+      "question": "What makes the 10% Vitamin C concentration effective for my skin?",
+      "answer": "The GlowBoost Serum contains 10% Vitamin C, which is clinically proven to be highly effective for antioxidant protection, boosting brightness, and promoting collagen production. This concentration provides maximum benefits while generally ensuring good skin tolerance, especially compared to much higher percentages.",
+      "category": "Informational"
+    },
+    {
+      "question": "When is the best time to apply the GlowBoost Vitamin C Serum, and how many drops should I use?",
+      "answer": "We strongly recommend applying 2–3 drops of the serum every morning. Vitamin C works synergistically with sunscreen to neutralize free radicals from UV exposure. Always apply the serum before your sunscreen as the last step before makeup.",
+      "category": "Usage"
+    },
+    {
+      "question": "How long until I start seeing results like overall brightening and fading of dark spots?",
+      "answer": "You may start noticing increased skin radiance and brightness within 2 to 4 weeks of consistent daily use. For the full benefits, such as significant fading of stubborn dark spots and hyperpigmentation, allow 8 to 12 weeks of regular application.",
+      "category": "Informational"
+    },
+    {
+      "question": "I feel a mild tingling sensation after application. Should I stop using the product?",
+      "answer": "A mild, temporary tingling sensation is a common side effect, especially if you have sensitive skin or are new to Vitamin C serums. This usually subsides as your skin adjusts. If the tingling is severe, persists longer than a few minutes, or is accompanied by prolonged redness or burning, discontinue use.",
+      "category": "Safety"
+    },
+    {
+      "question": "Why does this serum contain Hyaluronic Acid along with Vitamin C?",
+      "answer": "Hyaluronic Acid (HA) is included to provide essential, lightweight hydration. For oily and combination skin types, HA ensures the skin remains moisturized and plump without adding oiliness, thereby improving the skin's barrier function and tolerance to the potent Vitamin C.",
+      "category": "Informational"
+    },
+    {
+      "question": "Is the GlowBoost Vitamin C Serum suitable for skin types other than oily or combination?",
+      "answer": "While formulated specifically for Oily and Combination skin, normal skin types can also benefit. We advise individuals with dry or highly sensitive skin to perform a patch test first, and layer the serum under a substantial moisturizer if needed, due to the active nature of the 10% Vitamin C.",
+      "category": "Usage"
+    },
+    {
+      "question": "How should I store the serum to ensure the Vitamin C remains potent and effective?",
+      "answer": "Vitamin C is highly sensitive to light and air (oxidation). To maintain maximum potency, always keep the serum in its original dark packaging, tightly seal the dropper cap after every use, and store it in a cool, dry place away from direct sunlight or heat, such as inside a cabinet.",
+      "category": "Usage"
+    }
+  ]
 }
