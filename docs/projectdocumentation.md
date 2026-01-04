@@ -50,7 +50,12 @@ This design ensures separation of concerns, ease of extension, and predictable d
 - Generates frequently asked questions and answers based on product attributes.
 - Produces a list of `FAQItem` objects.
 
-#### 3. PageAssembler Agents
+#### 3. ComparisonAgent
+- Accepts two `ProductModel` objects (Product A and Product B).
+- Analyzes features, ingredients, and benefits to generate a side-by-side comparison.
+- Outputs a `ComparisonResult` object highlighting advantages and differences.
+
+#### 4. PageAssembler Agents
 - Consume structured data from the context.
 - Assemble:
   - Product detail pages

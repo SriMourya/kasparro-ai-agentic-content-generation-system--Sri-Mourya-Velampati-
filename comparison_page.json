@@ -14,7 +14,7 @@
       "Brightening",
       "Fades dark spots"
     ],
-    "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
+    "how_to_use": "Apply 2\t\n3 drops in the morning before sunscreen",
     "side_effects": "Mild tingling for sensitive skin",
     "price": 699.0,
     "currency": "INR"
@@ -28,8 +28,8 @@
       "Aloe Vera"
     ],
     "benefits": [],
-    "how_to_use": "Usage instructions not provided in source data.",
-    "side_effects": "Potential side effects not provided in source data.",
+    "how_to_use": "Apply 3-4 drops to cleansed skin in the morning.",
+    "side_effects": "May cause initial tingling or slight redness. Use sunscreen during the day.",
     "price": 1200.0,
     "currency": "INR"
   },
@@ -37,12 +37,11 @@
     "product_a_name": "GlowBoost Vitamin C Serum",
     "product_b_name": "RadianceX Serum",
     "comparison_points": [
-      "Vitamin C Concentration: Product A boasts a powerful 10% Vitamin C concentration, double the potency of Product B's 5%. This difference suggests Product A will deliver more significant brightening and anti-aging results.",
-      "Value and Price: Product A is priced at 699 INR, offering excellent value. Product B is significantly more expensive at 1200 INR, despite offering half the active ingredient concentration.",
-      "Transparency and Clarity: Product A is highly transparent, detailing specific benefits (Brightening, Fades dark spots), clear usage instructions (2-3 drops, morning), and potential side effects (Mild tingling). Product B lacks specified benefits, usage instructions, and disclosed side effects, making consumer decision-making difficult.",
-      "Ingredient Profile: Product A includes Hyaluronic Acid, a powerhouse hydrator often paired with Vitamin C to mitigate dryness, alongside the primary active. Product B lists Aloe Vera as the additional key ingredient.",
-      "Targeted Use: Product A clearly targets Oily and Combination skin types, providing specialized guidance. Product B does not specify a suitable skin type."
+      "Vitamin C Potency: Product A boasts a 10% concentration of Vitamin C, offering double the strength of Product B's 5%, suggesting potentially faster and more pronounced results in brightening and fading dark spots.",
+      "Supporting Ingredients: Product A incorporates Hyaluronic Acid, providing enhanced hydration and plumping benefits, which is generally considered more beneficial for advanced skin concerns compared to Product B's use of Aloe Vera.",
+      "Specificity and Benefits: Product A clearly targets Oily and Combination skin types and explicitly lists benefits like 'Brightening' and 'Fades dark spots.' Product B lacks specific targeting information and explicit benefit claims in its description.",
+      "Value Proposition: Despite offering a significantly higher concentration of the key active ingredient and a superior secondary ingredient (Hyaluronic Acid), Product A is nearly 40% less expensive than Product B (699 INR vs. 1200 INR), making it the far superior option for value."
     ],
-    "verdict": "The GlowBoost Vitamin C Serum (Product A) is the clear winner in this comparison. It provides a superior 10% active concentration at a much lower price point, offering far better overall value. Furthermore, its comprehensive transparency regarding benefits, usage, and ingredients makes it a much more trustworthy and effective choice for consumers seeking powerful brightening results."
+    "verdict": "The GlowBoost Vitamin C Serum (Product A) is the decisive winner. It provides a highly concentrated 10% dose of Vitamin C combined with Hyaluronic Acid for comprehensive results. Given its targeted benefits, higher potency, and vastly lower price point, Product A delivers exceptional performance and value compared to the lower concentration and higher cost of the RadianceX Serum."
   }
 }

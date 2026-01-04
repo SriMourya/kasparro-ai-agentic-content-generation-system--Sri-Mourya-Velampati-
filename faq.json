@@ -1,39 +1,109 @@
 {
   "items": [
     {
-      "question": "What makes the 10% Vitamin C concentration effective for my skin?",
-      "answer": "The GlowBoost Serum contains 10% Vitamin C, which is clinically proven to be highly effective for antioxidant protection, boosting brightness, and promoting collagen production. This concentration provides maximum benefits while generally ensuring good skin tolerance, especially compared to much higher percentages.",
-      "category": "Informational"
-    },
-    {
-      "question": "When is the best time to apply the GlowBoost Vitamin C Serum, and how many drops should I use?",
-      "answer": "We strongly recommend applying 2–3 drops of the serum every morning. Vitamin C works synergistically with sunscreen to neutralize free radicals from UV exposure. Always apply the serum before your sunscreen as the last step before makeup.",
+      "question": "What is the recommended application frequency for the GlowBoost Vitamin C Serum?",
+      "answer": "We recommend applying the GlowBoost Vitamin C Serum once daily, specifically in your morning routine, as Vitamin C provides excellent antioxidant protection against environmental stressors during the day.",
       "category": "Usage"
     },
     {
-      "question": "How long until I start seeing results like overall brightening and fading of dark spots?",
-      "answer": "You may start noticing increased skin radiance and brightness within 2 to 4 weeks of consistent daily use. For the full benefits, such as significant fading of stubborn dark spots and hyperpigmentation, allow 8 to 12 weeks of regular application.",
-      "category": "Informational"
+      "question": "How should I incorporate the GlowBoost serum into my existing skincare routine?",
+      "answer": "Apply the serum after cleansing and toning, and before your moisturizer or facial oil. It is crucial to follow up with a broad-spectrum sunscreen immediately after the serum when used in the morning.",
+      "category": "Usage"
     },
     {
-      "question": "I feel a mild tingling sensation after application. Should I stop using the product?",
-      "answer": "A mild, temporary tingling sensation is a common side effect, especially if you have sensitive skin or are new to Vitamin C serums. This usually subsides as your skin adjusts. If the tingling is severe, persists longer than a few minutes, or is accompanied by prolonged redness or burning, discontinue use.",
+      "question": "How much product should I use per application?",
+      "answer": "The recommended amount is 2 to 3 drops, enough to cover the face and neck thinly. Since the serum is potent, a small amount is sufficient.",
+      "category": "Usage"
+    },
+    {
+      "question": "How long does it typically take to see results regarding brightening and fading dark spots?",
+      "answer": "While individual results vary, users typically begin noticing improvement in skin radiance and the gradual fading of dark spots after 4 to 8 weeks of consistent daily use.",
+      "category": "Usage"
+    },
+    {
+      "question": "Can I layer the GlowBoost Vitamin C Serum with Niacinamide products?",
+      "answer": "Yes, current dermatological consensus suggests that Vitamin C and Niacinamide can be safely layered. We recommend waiting a minute or two between applications to allow each serum to absorb fully.",
+      "category": "Usage"
+    },
+    {
+      "question": "Why is it important to use sunscreen after applying the GlowBoost Vitamin C Serum?",
+      "answer": "Vitamin C enhances sun protection, but it does not replace sunscreen. Sunscreen is crucial because the brightening effects of Vitamin C are easily reversed by UV exposure, and Vitamin C can sometimes increase temporary sun sensitivity.",
       "category": "Safety"
     },
     {
-      "question": "Why does this serum contain Hyaluronic Acid along with Vitamin C?",
-      "answer": "Hyaluronic Acid (HA) is included to provide essential, lightweight hydration. For oily and combination skin types, HA ensures the skin remains moisturized and plump without adding oiliness, thereby improving the skin's barrier function and tolerance to the potent Vitamin C.",
+      "question": "I have sensitive skin. Is mild tingling a normal reaction to the serum?",
+      "answer": "Yes, for sensitive skin types, a mild tingling sensation upon initial application is normal and usually subsides quickly as your skin adjusts to the 10% Vitamin C concentration. If persistent redness or intense burning occurs, discontinue use and consult a dermatologist.",
+      "category": "Safety"
+    },
+    {
+      "question": "Can I use this serum if I am pregnant or breastfeeding?",
+      "answer": "Although topical Vitamin C is generally considered safe, we recommend consulting with your doctor or healthcare provider before introducing any new active skincare products, including the GlowBoost serum, during pregnancy or nursing.",
+      "category": "Safety"
+    },
+    {
+      "question": "Are there any active ingredients I should avoid combining with this serum?",
+      "answer": "To prevent over-exfoliation or irritation, avoid using strong exfoliating acids (like high-concentration AHAs or BHAs) or strong retinol products at the same time of day as the Vitamin C serum. If you use Retinol, apply the Vitamin C in the morning and Retinol at night.",
+      "category": "Safety"
+    },
+    {
+      "question": "How should I store the serum to maintain the stability and efficacy of the Vitamin C?",
+      "answer": "Vitamin C is prone to oxidation when exposed to light, heat, or air. Store your GlowBoost serum in a cool, dark place, away from direct sunlight, and ensure the cap is tightly sealed after each use.",
+      "category": "Safety"
+    },
+    {
+      "question": "What is the concentration of Vitamin C in the GlowBoost serum?",
+      "answer": "The GlowBoost Vitamin C Serum features a highly effective concentration of 10% Vitamin C, which is optimal for skin brightening and antioxidant protection without causing excessive irritation.",
+      "category": "Ingredients"
+    },
+    {
+      "question": "What role does Hyaluronic Acid play in the GlowBoost formulation?",
+      "answer": "Hyaluronic Acid is a key ingredient added to provide intense hydration, drawing moisture into the skin. This helps counteract any potential dryness or irritation from the active Vitamin C, ensuring the serum is comfortable for daily use.",
+      "category": "Ingredients"
+    },
+    {
+      "question": "Is the GlowBoost serum suitable for acne-prone skin?",
+      "answer": "Yes, the serum is formulated specifically for Oily and Combination skin types, which are often acne-prone. Vitamin C can help fade post-acne dark spots (PIH), and the non-comedogenic formulation is designed not to clog pores.",
+      "category": "Ingredients"
+    },
+    {
+      "question": "Is the product free from harmful additives like parabens and sulfates?",
+      "answer": "We prioritize clean formulations. The GlowBoost Vitamin C Serum is proudly free from parabens, sulfates, and artificial fragrances.",
+      "category": "Ingredients"
+    },
+    {
+      "question": "Where do you source your Vitamin C ingredient?",
+      "answer": "We utilize high-quality, stable Vitamin C derivatives sourced from reputable suppliers known for purity, ensuring maximum efficacy and shelf stability in our 10% concentration.",
+      "category": "Ingredients"
+    },
+    {
+      "question": "What is the primary benefit of using this specific Vitamin C serum?",
+      "answer": "The primary benefits are significant skin brightening and effective reduction of hyperpigmentation, including dark spots and sun damage, due to the powerful 10% Vitamin C concentration.",
       "category": "Informational"
     },
     {
-      "question": "Is the GlowBoost Vitamin C Serum suitable for skin types other than oily or combination?",
-      "answer": "While formulated specifically for Oily and Combination skin, normal skin types can also benefit. We advise individuals with dry or highly sensitive skin to perform a patch test first, and layer the serum under a substantial moisturizer if needed, due to the active nature of the 10% Vitamin C.",
+      "question": "How long does a bottle of the GlowBoost Vitamin C Serum typically last?",
+      "answer": "Using the recommended 2-3 drops daily, a single bottle typically lasts between 6 to 8 weeks.",
       "category": "Usage"
     },
     {
-      "question": "How should I store the serum to ensure the Vitamin C remains potent and effective?",
-      "answer": "Vitamin C is highly sensitive to light and air (oxidation). To maintain maximum potency, always keep the serum in its original dark packaging, tightly seal the dropper cap after every use, and store it in a cool, dry place away from direct sunlight or heat, such as inside a cabinet.",
-      "category": "Usage"
+      "question": "What is the price of the GlowBoost Vitamin C Serum?",
+      "answer": "The GlowBoost Vitamin C Serum is priced at 699.0 INR.",
+      "category": "Purchase"
+    },
+    {
+      "question": "Do you offer any discounts for bulk purchases or subscriptions?",
+      "answer": "We frequently run promotional offers and may have subscription options available for recurring purchases. Please check our official website for the latest deals and bundles.",
+      "category": "Purchase"
+    },
+    {
+      "question": "What is your policy regarding returns or exchanges for the serum?",
+      "answer": "We accept returns for unopened and unused products within 30 days of purchase, provided they are in their original condition. For issues related to damage upon arrival, please contact our customer service team immediately.",
+      "category": "Purchase"
+    },
+    {
+      "question": "Where can I purchase the GlowBoost Vitamin C Serum?",
+      "answer": "The serum is available for purchase directly through our official brand website, as well as selected authorized online retailers and physical stores.",
+      "category": "Purchase"
     }
   ]
 }
